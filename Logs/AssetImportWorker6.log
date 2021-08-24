@@ -107,3 +107,4 @@ Domain Reload Profiling:
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
+AssetImportWorkerClient::OnTransportError - code=10060 error=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
